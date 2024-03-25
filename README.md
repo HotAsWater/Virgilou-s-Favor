@@ -4,8 +4,8 @@ Make sure to be in the main_game folder in your terminal :wink:
 
 :warning: The following commands depend on your python version ! :warning:
 
-X = Your python version.
 
+X = Your python version.
 INSTALL: `pipX install pygame`
 
 RUN GAME: `pythonX main.py`
@@ -18,9 +18,7 @@ Virgilou's Favor is a small shooter game made with Python.
 This is my first game i made as a junior developper.
 
 Move left  -   ← (left arrow key)
-
 Move right -   → (right arrow key)
-
 Shoot      -   Space Bar
 
 3 Difficulty mode 
