@@ -17,9 +17,11 @@ If you need help installing Python, visit https://installpython3.com/
 Virgilou's Favor is a small shooter game made with Python.
 This is my first game i made as a junior developper.
 
-Move left  -   ← (left arrow key)
-Move right -   → (right arrow key)
-Shoot      -   Space Bar
+# InGame Control & Gamemodes
+
+  -  Move left  -   ← (left arrow key)
+  -  Move right -   → (right arrow key)
+  -  Shoot      -   Space Bar
 
 3 Difficulty mode 
   -  Easy
