@@ -4,11 +4,11 @@ Make sure to be in the main_game folder in your terminal :wink:
 
 :warning: The following commands depend on your python version ! :warning:
 
-<h3>X</h3> = Your python version.
+X = Your python version.
 
-INSTALL: `pip<h3>X</h3> install pygame`
+INSTALL: `pipX install pygame`
 
-RUN GAME: `python<h3>X</h3> main.py`
+RUN GAME: `pythonX main.py`
 
 If you need help installing Python, visit https://installpython3.com/
 
